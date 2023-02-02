@@ -1,0 +1,11 @@
+pandas==1.5.3
+matplotlib==3.6.3
+numpy==1.24.1
+scikit-learn==1.2.1
+folium==0.14.0
+geopy==2.3.0
+pyttsx3==2.90
+pytz==2022.7.1
+opencv-python==4.7.0.68
+pytesseract==0.3.10
+SpeechRecognition==3.9.0
