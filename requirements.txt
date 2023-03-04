@@ -9,3 +9,5 @@ pytz==2022.7.1
 opencv-python==4.7.0.68
 pytesseract==0.3.10
 SpeechRecognition==3.9.0
+mediapipe==0.9.1.0
+
